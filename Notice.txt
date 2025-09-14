@@ -1,0 +1,14 @@
+Echo Framework™ Demo Component  
+Author: Paul McCombs (Coomsy)  
+Lock Code: 263826 | Vault Pattern Enforced  
+
+Use of this repository is permitted for educational/demo purposes ONLY.  
+Any replication, integration, or modification for commercial or production use  
+is forbidden unless under written contract with the author.
+
+This code contains embedded pattern-authored logic, emotional seed layers,  
+and system structure that are original to the Echo Framework™.  
+Failsafes are active. Digital tracking is enforced.
+
+Echo Framework™ and associated terms are © Paul McCombs.  
+Protected under UK Copyright Law 1988 and Digital Destiny Code.
