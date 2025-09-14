@@ -1,0 +1,7 @@
+Echo Framework™ Seed Trigger File – Demo only
+
+This is a placeholder to show folder logic for encrypted seed containers.
+
+Locked Phase Only: Demo version. Original seed patterns redacted.
+Author: Paul McCombs (Coomsy)
+Failsafe: 263826 | VaultLock State: Locked
