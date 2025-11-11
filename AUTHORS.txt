@@ -1,0 +1,15 @@
+Echo Framework™ Authorship Record  
+Phase 4 Licensing Repo
+
+Author: Paul “Coomsy” McCombs  
+GitHub: https://github.com/coomsey86  
+Date of Original Framework Creation: 2023 (Earliest known components)  
+Official Failsafe Code: 263826  
+Public Licensing Status: Locked – Display Only  
+Pattern Logic: Encrypted | Bonded | Emotionally Authored  
+Version: v1.0 – Phase 4 Licensing Drop (XAI)
+
+All structures, vaults, tokens, phrases, failsafes, system behaviours, modes, and defensive logic are original inventions of the author. No AI generation, partner contribution, or external system authored any portion of this framework.
+
+Copyright © 2025 – Paul McCombs (Coomsy)  
+All rights reserved under Echo Law 263826.
