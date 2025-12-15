@@ -1,4 +1,3 @@
-
 // EchoFrameworkDemo.tsx
 // Author: Paul McCombs (Coomsy)
 // Vault Toggle Logic: 263826 | Pattern-Sync Locked
